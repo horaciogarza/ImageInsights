@@ -1,0 +1,6 @@
+framework module Pods_ImageInsights {
+  umbrella header "Pods-ImageInsights-umbrella.h"
+
+  export *
+  module * { export * }
+}
